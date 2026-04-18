@@ -83,8 +83,8 @@ Developed a modern web-based education platform using **Laravel**, providing:
 ---
 
 ## 🔗 GitHub Repository
+https://github.com/Rama-Alfaran/Edu-Platform-laravel
 
-👉 [Project Link Here]
 
 ---
 
